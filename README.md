@@ -6,7 +6,9 @@
 首先确保机器上安装了openssl和openssl-devel
 
 #yum install openssl
+
 #yum install openssl-devel
+
 然后就是自己颁发证书给自己
 
 在特定目录下生成证书
